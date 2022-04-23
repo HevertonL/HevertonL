@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/HevertonL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HevertonL&icon_color=F8ECD1&title_color=F8ECD1&bg_color=DEG,11698E,00917C&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HevertonL&layout=compact&langs_count=7&title_color=0F1123&bg_color=DEG,EBA83A,FFC93C"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HevertonL&icon_color=F8ECD1&text_color=F8ECD1&title_color=F8ECD1&bg_color=DEG,00917C,083358&border_radius=50%&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HevertonL&layout=compact&langs_count=7&title_color=0F1123&border_radius=2em&bg_color=DEG,EBA83A,FFC93C"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -21,7 +21,9 @@
 </div>
  </br>
   <div> 
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:hevertonluizs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/heverton-luiz-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+   ![Snake animation](https://github.com/HevertonL/HevertonL/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
