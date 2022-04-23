@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/HevertonL">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=HevertonL&icon_color=F8ECD1&text_color=F8ECD1&title_color=F8ECD1&bg_color=DEG,00917C,083358&border_radius=50%&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HevertonL&layout=compact&langs_count=7&title_color=0F1123&border_radius=2em&bg_color=DEG,EBA83A,FFC93C"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HevertonL&icon_color=F8ECD1&text_color=F8ECD1&title_color=F8ECD1&bg_color=DEG,00917C,083358&border_radius=50%&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HevertonL&layout=compact&langs_count=7&title_color=0F1123&border_radius=2em&bg_color=DEG,EBA83A,FFC93C"/>
 </div>
 
 <div style="display: inline_block"><br>
