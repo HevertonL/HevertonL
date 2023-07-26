@@ -1,6 +1,6 @@
 ### Oi, eu sou Heverton Luiz, seja muito bem-vindo!
 
-- 🔭 Hoje trabalho com frontEnd e BackEnd
+- 🔭 Hoje trabalho com frontEnd
 - 🌱 Estou estudando ReactJs
 - 😄 Pronouns: ele/dele
 
