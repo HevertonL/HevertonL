@@ -11,8 +11,8 @@ Tenho um background técnico em desenvolvimento e hoje aplico essa lógica para 
 
 <div align="center">
   <a href="https://github.com/HevertonL">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HevertonL&icon_color=F8ECD1&text_color=F8ECD1&title_color=F8ECD1&bg_color=30,00917C,083358&border_radius=20&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HevertonL&layout=compact&langs_count=7&text_color=F8ECD1&title_color=F8ECD1&bg_color=30,00917C,083358&border_radius=20"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HevertonL&icon_color=F8ECD1&text_color=F8ECD1&title_color=F8ECD1&bg_color=30,00917C,083358&border_radius=20&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HevertonL&layout=compact&langs_count=7&text_color=F8ECD1&title_color=F8ECD1&bg_color=30,00917C,083358&border_radius=20"/>
   </a>
 </div>
 
